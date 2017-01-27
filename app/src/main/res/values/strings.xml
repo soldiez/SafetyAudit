@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Safety Audit</string>
+    <string name="pleaseInputInformation">Please, input information</string>
+    <string name="curentData">Data</string>
+    <string name="curentTime">Time</string>
+    <string name="date_and_time_when_it_happened">Date and Time when it happened</string>
+    <string name="dateHappened">Date</string>
+    <string name="timeHappened">Time</string>
+    <string name="place_where_it_happened">Place where it happened</string>
+    <string name="with_whom_happened">With whom happened</string>
+    <string name="info_about_happened">Info about happened</string>
+    <string name="saveCurrent">Save</string>
+    <string name="sendCurrent">Send</string>
+    <string name="take_photo">Take Photo</string>
+</resources>
